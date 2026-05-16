@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 AI Timetable Generator
 
 **AI-Powered Timetable Generation System**  
@@ -167,3 +168,6 @@ Ai time table Generator/
 - Cloud database support
 - Real-time editing and drag-and-drop
 - Multi-semester management
+=======
+# AI-Time-Table
+>>>>>>> 18a110280e0c68a86c3538283c6ca6ecebe9f870
