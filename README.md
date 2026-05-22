@@ -36,7 +36,7 @@ An intelligent web application that automatically generates optimized, conflict-
 cd "ML_PROJECTS/Ai time table Generator/app"
 
 # Activate virtual environment
-source /Users/adityayadav/ML_PROJECTS/ml-env/bin/activate
+source /Users/toshifali/ML_PROJECTS/ml-env/bin/activate
 
 # Install dependencies (first time only)
 pip install -r requirements.txt
